@@ -1,0 +1,5 @@
+{
+    "buildCommand": "go build -o ./dist/alist ./cmd/alist",
+    "outputDirectory": "./dist",
+    "installCommand": "go mod download"
+}
