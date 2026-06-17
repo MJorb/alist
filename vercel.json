@@ -1,5 +1,5 @@
 {
-    "buildCommand": "go build -o ./dist/alist ./cmd/alist",
+    "buildCommand": "go build -o ./dist/alist ./cmd",
     "outputDirectory": "./dist",
     "installCommand": "go mod download"
 }
